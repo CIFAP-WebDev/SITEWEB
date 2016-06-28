@@ -1,0 +1,4 @@
+dans les parametre test bonjour index.php
+
+ne pas oublier d'indiquer les valeurs de svariables dans 
+le lien suivi et separer par des & & & & &

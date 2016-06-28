@@ -1,0 +1,25 @@
+body{
+	text-align:center;
+}
+
+ a {
+	background:#f4b;
+	text-decoration: none;
+	color:#fff;
+	margin-top:120px;
+	border-radius:10px;
+	display:inline-block;
+	margin:0auto;
+	padding:15px;
+	transition:all 0.2s ease-in-out;
+	text-align:center;
+}
+
+a:hover {
+	background:#c18;
+	transform:scale(1.05);
+}
+
+p{
+	margin:0;
+}
