@@ -16,5 +16,7 @@ Les langages requis sont les suivantes :
 
 Pour chaque erreur ou proposition, n'hésitez pas à ouvrir un "ussies" afin qu'il soit résolu !
 
+
+N'oubliez pas! pour participer au projet depuis Git Hub Deskop, il faudra "cloner" SITEWEB sur votre Workspace!
 # Merci
 
